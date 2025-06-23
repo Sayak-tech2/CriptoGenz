@@ -1,0 +1,1 @@
+export default function CryptoTable() { return <div className='text-center'>[Live Crypto Table Coming Soon]</div>; }
